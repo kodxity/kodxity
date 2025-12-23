@@ -1,4 +1,4 @@
-Software Engineering Student at University of Waterloo
+Software Engineering student at University of Waterloo
 
 <!---
 kodxity/kodxity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
