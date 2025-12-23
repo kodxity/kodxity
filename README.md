@@ -1,5 +1,4 @@
-i love mango soda :>
-
+Software Engineering Student at University of Waterloo
 
 <!---
 kodxity/kodxity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
