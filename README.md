@@ -1,5 +1,4 @@
 i love mango soda :>
-![](https://komarev.com/ghpvc/?username=kodxity)
 
 
 <!---
